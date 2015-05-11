@@ -1,0 +1,10 @@
+{
+	"dbURL": "mongodb://chatcatuser:mychatcat@ds031942.mongolab.com:31942/nodejscourse",
+	"secretSalt":"Secret Salt goes here",
+	"fb":{
+		"appId":"1607907502782355",
+		"appSecret":"e807f3a9852f64d62ee56b3b2150625a",
+		"callbackURL":"http://localhost:3000/auth/facebook/callback"
+	},
+	"host":"http://localhost:3000"
+}
