@@ -1,2 +1,4 @@
 Chat application using Nodejs, Express, Socket.
-User suthentication using Passport & Facebook Oauth strategy using passport-facebook middleware
+User suthentication using Passport & Facebook Oauth strategy using passport-facebook middleware.
+
+in progress....
